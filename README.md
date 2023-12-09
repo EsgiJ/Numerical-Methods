@@ -1,2 +1,2 @@
 # Numerical-Methods
-This C program utilizes diverse Numerical Methods, supporting various input function types.
+In this project, I have written a program in the C programming language that applies various Numerical Methods such as the Bisection method, Regula-Falsi method, Newton-Raphson method, inverse of an NxN matrix, Gauss elimination method, Gauss-Seidel method, Numerical Derivative, Simpson method, Trapezoidal method, Variable-free Gregory-Newton interpolation on functions or matrix values provided as input. The program can handle input functions of polynomial, exponential, logarithmic, trigonometric, and inverse trigonometric types.
